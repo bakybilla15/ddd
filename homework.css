@@ -1,0 +1,142 @@
+.div1{
+    border:1px solid rgb(7, 7, 7);
+    width:99%;
+    height: 50px;
+    text-align: center;
+    font-size: 40px;
+    padding:15px;
+    background-color: rgb(0, 59, 59);
+    color: antiquewhite;
+}
+.div2{
+    border:1px solid rgb(0, 0, 0);
+    width:8%;
+    height: 400px;
+    text-align: center;
+    font-size: 40px;
+    padding:15px;
+    background-color: rgb(18, 211, 211);
+    margin-top: 5px;
+    float: left;
+}
+
+.div4{
+    border:1px solid rgb(0, 0, 0);
+    width:60%;
+    height: 400px;
+    text-align: center;
+    font-size: 40px;
+    padding:15px;
+    background-color: rgb(200, 243, 243);
+    float:left;
+    margin-top: 5px;
+    margin-left: 5px;
+    
+}
+
+#a{
+    border:1px solid rgb(7, 7, 7);
+    width:90%;
+    height: 50px;
+    text-align: center;
+    font-size: 40px;
+    padding: 15px;
+    background-color: rgb(0, 59, 59);
+    margin-left:50px;
+    color: rgb(253, 253, 247);
+   
+   
+}
+#b{
+    border:1px solid rgb(0, 0, 0);
+    width:35%;
+    height: 250px;
+    text-align: center;
+    font-size: 35px;
+    padding:15px;
+    background-color: rgb(31, 218, 218);
+    float:left;
+    margin-left: 50px;
+    margin-top: 3px;
+}
+#c{
+    border:1px solid rgb(0, 0, 0);
+    width:35%;
+    height: 250px;
+    text-align: center;
+    font-size: 40px;
+    padding:15px;
+    background-color: rgb(31, 218, 218);
+    float:right;
+    margin-left: 50px;
+    margin-top: 3px;
+}
+ 
+
+.div5{
+    border:1px solid rgb(0, 0, 0);
+    width:99%;
+    height: 50px;
+    text-align: center;
+    font-size: 40px;
+    padding:15px;
+    background-color: rgb(186, 212, 212);
+    margin-top: 441px;
+}
+.div6{
+    border:1px solid rgb(0, 0, 0);
+    width:24%;
+    height: 400px;
+    text-align: center;
+    font-size: 40px;
+    padding:15px;
+    background-color: rgb(200, 243, 243);
+    float:right;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+#d{
+    border:1px solid rgb(0, 0, 0);
+    width:20%;
+    height: 250px;
+    text-align: center;
+    font-size: 40px;
+    padding:15px;
+    background-color: rgb(31, 218, 218);
+    float:left;
+    
+    margin-top: 90px;
+
+}
+#e{
+    border:1px solid rgb(0, 0, 0);
+    width:20%;
+    height: 250px;
+    text-align: center;
+    font-size: 40px;
+    padding:15px;
+    background-color: rgb(31, 218, 218);
+    float:right;
+   
+    margin-top: 90px;
+}
+#aside{
+    border:1px solid rgb(7, 7, 7);
+    width:90%;
+    height: 50px;
+    text-align: center;
+    font-size: 40px;
+    padding: 15px;
+    background-color: rgb(0, 59, 59);
+   
+    color: rgb(253, 253, 247);}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+.div1 {
+    height: 200px;
+    width: 1000px;
+    background-color: rgb(255, 255, 162);
+    margin: 0 auto;
+}
+.div2 {
+    
+    height: 200px;
+    width: 1000px; 
+    background-color: rgb(255, 255, 103);
+    margin: 0 auto;  
+}
+.wrapper {
+    height: 500px;
+    width: 1050px;
+    background-color: rgb(79, 223, 223);
+    margin: 0 auto;
+}
